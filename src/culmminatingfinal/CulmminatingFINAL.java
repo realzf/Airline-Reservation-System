@@ -1,5 +1,4 @@
 /**
- * Programmer Name: Zaeem
  * Program Name: Airline reservation System
  * Program AirlineReservationSystem.java
  */ 
