@@ -1,6 +1,4 @@
 /**
- * Programmer Name: Zaeem
- * Project: CulminatingFinal
  * Class: Passenger
  * Description: Creates object that holds attributes for a person on  a flight
  */
